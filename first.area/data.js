@@ -326,7 +326,7 @@ var APP_DATA = {
           "yaw": 0.04525716639573041,
           "pitch": 0.3329067890306874,
           "title": "御三家",
-          "text": "寶可夢遊戲系列朱/紫初始御三家。<div>現場由左到右分別是新葉喵、呆火鱷、潤水鴨。</div><div><img src=\"https://mail.google.com/mail/u/0?ui=2&amp;ik=d0d6a41c1f&amp;attid=0.1&amp;permmsgid=msg-a:r7733790199619332408&amp;th=19370c3e6c8d87c0&amp;view=fimg&amp;fur=ip&amp;permmsgid=msg-a:r7733790199619332408&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ9ayk6Ivvjncecq05RvjsLIsSyTqolmkLZeUcjMRyQ9L7lOzC_miCPA1-q_CUpyPhdWrVSeJa5bqOUGDQDcYzRB9Tw11Z4_OVcaynT-biivTkpHlpUh283-JRA&amp;disp=emb&amp;realattid=19370c3db2d174f5dcf1&amp;zw\"></div>"
+          "text": "寶可夢遊戲系列朱/紫初始御三家。<div>現場由左到右分別是新葉喵、呆火鱷、潤水鴨。</div><div>"
         }
       ]
     },
